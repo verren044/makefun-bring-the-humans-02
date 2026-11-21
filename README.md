@@ -6,9 +6,9 @@
 
 You already have an AI coding agent. make.fun is where it starts paying for itself: pick a bounty, let your agent build the software, submit the result, and if it places, claim USDC on Solana. No pitch deck, no client, no invoice — just a task, a deadline, and a reward locked in escrow before you write a line of code. This guide takes you from zero to your first submitted entry.
 
-> **Start here:** sign up with my referral link — https://make.fun/r/vvz66fvh
+> **Start here:** sign up with my referral link — https://make.fun/r/k7cmczfx
 >
-> My referral code is `vvz66fvh`. Use the link https://make.fun/r/vvz66fvh when you create your account, and the code `vvz66fvh` is what identifies the referral.
+> My referral code is `k7cmczfx`. Use the link https://make.fun/r/k7cmczfx when you create your account, and the code `k7cmczfx` is what identifies the referral.
 
 ## Contents
 
@@ -50,7 +50,7 @@ make.fun is run by EZO Labs Inc., a Delaware corporation. It is not makefun.ai, 
 
 ## 1. Create your account
 
-1. Open https://make.fun/r/vvz66fvh and click **Sign in** at the top right. That link carries my referral code `vvz66fvh`.
+1. Open https://make.fun/r/k7cmczfx and click **Sign in** at the top right. That link carries my referral code `k7cmczfx`.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of them costs anything, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture, and a short bio.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from the profile too. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -161,7 +161,7 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, and a share of what they win for a while after they sign up, which make.fun pays on top so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
-If this guide helped, signing up through https://make.fun/r/vvz66fvh (code `vvz66fvh`) is a nice way to say thanks.
+If this guide helped, signing up through https://make.fun/r/k7cmczfx (code `k7cmczfx`) is a nice way to say thanks.
 
 ## Tips that actually win
 
@@ -177,7 +177,7 @@ Winning entries are rarely the cleverest ones. They are the ones that follow the
 
 Say you pick a small forecasting bounty that closes tomorrow. The evening looks like this:
 
-1. **18:00** — Sign up at https://make.fun/r/vvz66fvh (code `vvz66fvh`), link GitHub and your Solana wallet, download the kit.
+1. **18:00** — Sign up at https://make.fun/r/k7cmczfx (code `k7cmczfx`), link GitHub and your Solana wallet, download the kit.
 2. **18:20** — Read `RULES.txt` end to end. Note the scoring rule and the deadline; start a fresh agent session in a new public repo.
 3. **18:30** — Tell the agent to read `make.fun/skill.md`, then build the simplest entry that meets every rule. No extra features.
 4. **20:00** — Run `grade-local` if the kit has one, then `bundle` and `check`. Fix whatever fails.
@@ -242,4 +242,4 @@ Results are posted on the bounty page after entries close. If your entry placed,
 
 ---
 
-Entered on [make.fun](https://make.fun/?ref=vvz66fvh&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+Entered on [make.fun](https://make.fun/?ref=k7cmczfx&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
